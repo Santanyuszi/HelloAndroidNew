@@ -1,2 +1,0 @@
-# HelloAndroidNew
-HelloAndroid App redesign
