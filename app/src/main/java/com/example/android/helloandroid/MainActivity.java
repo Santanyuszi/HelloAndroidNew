@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         Button.setOnClickListener(new OnClickListener() {
 
             public void onClick(View v) {
-                Uri uri = Uri.parse("http://www.udacity.com");
+                Uri uri = Uri.parse("www.udacity.com");
 
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                 startActivity(intent);
